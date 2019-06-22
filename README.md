@@ -3,6 +3,7 @@
 To go back to the homepage, click <a href="https://youthfultvman101.github.io/Home/">here</a>
 
 <h1>Primary Social Oofs</h1>
+These are our main social stuffs, pretty much only the owners here
 
 <h2>Official Oofs Of Robloxia</h2>
 <h3>Coming Soon...</h3>
@@ -19,6 +20,7 @@ To go back to the homepage, click <a href="https://youthfultvman101.github.io/Ho
 </ul>
 
 <h1>Sponsored Oofs</h1>
+These are our Social Oofs, this is one of their perks
 
 <h2>DominoHDMaster</h2>
 <h4>YouTube</h4>
@@ -27,4 +29,6 @@ To go back to the homepage, click <a href="https://youthfultvman101.github.io/Ho
 </ul>
 
 <h1>Staff</h1>
+All of the social media stuffs for our staff members
+
 <h3>Coming Soon...</h3>
