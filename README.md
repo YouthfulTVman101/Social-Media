@@ -2,7 +2,7 @@
 <p>View the latest from the Oofs Of Robloxia community!</p>
 To go back to the homepage, click <a href="https://youthfultvman101.github.io/Home/">here</a>
 
-<h2>Official Oofs Of Robloxia Social Media</h2>
+<h2>Official Oofs Of Robloxia</h2>
 <h3>Coming Soon...</h3>
 
 <h2>YouthfulTVman101</h2>
