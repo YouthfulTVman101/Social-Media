@@ -19,5 +19,5 @@ To go back to the homepage, click <a href="https://youthfultvman101.github.io/Ho
 <h2>DominoHDMaster</h2>
 <h4>YouTube</h4>
 <ul>
-  <li><a href="https://www.youtube.com/channel/UCYktZ1S9n3u1GLHans87h1g?sub_confirmation=1">DominoHDMaster</a>/li>
+  <li><a href="https://www.youtube.com/channel/UCYktZ1S9n3u1GLHans87h1g?sub_confirmation=1">DominoHDMaster</a></li>
 </ul>
