@@ -2,6 +2,8 @@
 <p>View the latest from the Oofs Of Robloxia community!</p>
 To go back to the homepage, click <a href="https://youthfultvman101.github.io/Home/">here</a>
 
+<h1>Primary Social Oofs</h1>
+
 <h2>Official Oofs Of Robloxia</h2>
 <h3>Coming Soon...</h3>
 
@@ -16,8 +18,13 @@ To go back to the homepage, click <a href="https://youthfultvman101.github.io/Ho
   <li><a href="https://twitter.com/YoofRBX">YoofRBX</a></li>
 </ul>
 
+<h1>Sponsored Oofs</h1>
+
 <h2>DominoHDMaster</h2>
 <h4>YouTube</h4>
 <ul>
   <li><a href="https://www.youtube.com/channel/UCdUBvgXqw2XwW7JkCz_Nw-A?sub_confirmation=1">DominoHDMaster</a></li>
 </ul>
+
+<h1>Staff</h1>
+<h3>Coming Soon...</h3>
