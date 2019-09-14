@@ -2,11 +2,11 @@
 <p>View the latest from the Oofs Of Robloxia community!</p>
 To go back to the homepage, click <a href="https://youthfultvman101.github.io/Home/">here</a>
 
-<h1>Primary Social Oofs</h1>
+<h2>Primary Social Oofs</h2>
 These are our main social stuffs, pretty much only the owners here
 
-<h2>Official Oofs Of Robloxia</h2>
-<h3>Coming Soon...</h3>
+<h3>Official Oofs Of Robloxia</h3>
+<h4>Coming Soon...</h4>
 
 <h2>YouthfulTVman101</h2>
 <h4>YouTube</h4>
